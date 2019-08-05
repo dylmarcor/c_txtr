@@ -30,5 +30,6 @@ int main() {
 	} else {
 	    printf("%d ('%c')\n", c, c);
 	}
+    }
     return 0;
 }
